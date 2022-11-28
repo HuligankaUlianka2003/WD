@@ -1,0 +1,136 @@
+.logo{
+    height: 60px;
+width: 96px;
+margin-left: 402px;
+margin-top: 57px;
+border-radius: nullpx;
+font-family: Revalia;
+font-size: 48px;
+font-weight: 400;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: center;
+color:#34547A;
+}
+.main{
+    height: 12px;
+width: 84px;
+margin-left: 398px;
+margin-top: 79px;
+border-radius: nullpx;
+
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0.1em;
+text-align: left;
+
+}
+.about-authrs{
+    height: 16px;
+width: 100px;
+margin-left: 524px;
+margin-top: -14px;
+border-radius: nullpx;
+
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0.1em;
+text-align: left;
+
+color:black;
+}
+.works{
+    height: 16px;
+width: 74px;
+left: 1164px;
+top: 72px;
+border-radius: nullpx;
+margin-left: 666px;
+margin-top: -15px;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0.1em;
+text-align: left;
+
+color:black
+}
+.process{
+    height: 16px;
+width: 86px;
+left: 1280px;
+top: 72px;
+border-radius: nullpx;
+margin-left: 792px;
+margin-top: -15px;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0.1em;
+text-align: left;
+
+color:black;
+}
+.contact{
+    height: 16px;
+width: 99px;
+
+border-radius: nullpx;
+margin-left: 910px;
+margin-top: -15px;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0.1em;
+text-align: left;
+
+color:black;
+}
+.h1{
+    height: 45px;
+width: 541px;
+border-top-style: solid;
+border-top-width: 220px;
+border-radius: nullpx;
+
+font-family: Roboto;
+font-size: 48px;
+font-weight: 500;
+line-height: 79px;
+letter-spacing: 0em;
+text-align: left;
+color:black;
+word-spacing: 500px;
+}
+p{
+    height: 67px;
+width: 540px;
+border-radius: nullpx;
+
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+
+color:#727272;
+margin-left: 990px;
+margin-top: 60px;
+}
+.rectangle{
+    height: 250px;
+width: 1920px;
+left: 0px;
+top: 1059px;
+border-radius: 0px;
+
+background: #34547A;
+}
